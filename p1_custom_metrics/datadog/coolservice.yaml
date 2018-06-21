@@ -1,0 +1,7 @@
+# 180621: Reza farrahi (imriss@yahoo.com)
+init_config:
+  metric_prefix: coolservice
+  coolservice_path: /usr/local/bin/coolservice.sh
+
+instances:
+    [{}]
