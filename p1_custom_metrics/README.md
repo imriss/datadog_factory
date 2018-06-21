@@ -10,7 +10,7 @@
 5. The datadag agent is provided via a Docker container.
 
 ## Additions:
-1. The Datadog metrics "${hosthost}RFCoolService" is used to report the status.
+1. The Datadog metrics "coolservice.coolservice_status" is used to report the status.
     - If the status is "true", the metrics is set to 100, else if the status is "false" it is set to 30, and otherwise it is set to 20.
 
 ## Extra steps:
