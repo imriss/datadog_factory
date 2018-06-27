@@ -1,2 +1,2 @@
 # datadog_factory
-A place for tools related to DataDog
+A place for tools related to DataDog.
